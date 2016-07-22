@@ -20,6 +20,6 @@ This slack app has a custom app icon, I'll let you figure it out with the screen
 
 💯 **Reason #1**: Slack native application is a huge resource hog. At my end it consumes 3x RAM as compared to Chrome Basic App without helpers. Being part of more than 15 Slack teams, my native Mac app for Slack had become sluggish as hell, and it was consuming 1.5 GBs of RAM all the time.
 
-🤓 **Reason #2**: I love use <kbd>⌘ Command</kbd> + <kbd>TAB</kbd> keyboard shortcut to move from one application to another. And that for some reason my brain thinks of different Slack Teams as separate apps. 
+🤓 **Reason #2**: I love to use <kbd>⌘ Command</kbd> + <kbd>TAB</kbd> keyboard shortcut to move from one application to another. And that for some reason my brain thinks of different Slack Teams as separate apps. 
 
 
