@@ -4,8 +4,8 @@ Native application for TheWPCrowd.com Slack channel. This application is an Elec
 
 
 ## OS Support
-
-- [Mac OS X 64 bit](https://github.com/ahmadawais/TheWPCrowd-Slack/tree/master/TheWPCrowd%20Slack-darwin-x64)
+- [Download](https://github.com/ahmadawais/TheWPCrowd-Slack/archive/master.zip) or clone the repository to install the application.
+- [Mac OS X 64 bit](https://github.com/ahmadawais/TheWPCrowd-Slack/tree/master/TheWPCrowd-darwin-x64)
 - Windows — 32 bit (Create an issue if you need one and I will upload one)
 - Windows — 32 bit (Create an issue if you need one and I will upload one)
 
