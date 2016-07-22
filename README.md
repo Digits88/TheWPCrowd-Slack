@@ -13,7 +13,7 @@ Native application for TheWPCrowd.com Slack channel. This application is an Elec
 
 This slack app has a custom app icon, I'll let you figure it out with the screenshots below.
 
-![](https://i.imgur.com/YH8Gew6.png)
+![](https://i.imgur.com/Km7LLB6.png)
 
 
 ## Why Not Native Slack App??
