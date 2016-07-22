@@ -11,7 +11,7 @@ Native application for TheWPCrowd.com Slack channel. This application is an Elec
 
 ## Custom App Icon
 
-This slack app has a custom app icon, I'll let you figure it out with the screenshots below.
+This slack app has a custom app icon, I'll let you figure it out with the screenshots below and a WIKI page about [changing the app icon](https://github.com/ahmadawais/TheWPCrowd-Slack/wiki/Change-The-App-Icon).
 
 ![](https://i.imgur.com/Km7LLB6.png)
 
